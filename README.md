@@ -1,6 +1,8 @@
 # InsightDesk
+Built as a hands-on learning project, following an open-source RAG tutorial by Dave Ebbelaar.
 
 An internal AI chatbot that lets analysts query a corpus of documents in plain English and get sourced, citable answers.
+
 
 ## The client
 
