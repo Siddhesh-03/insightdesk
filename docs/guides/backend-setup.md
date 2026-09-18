@@ -76,7 +76,7 @@ For Jupyter, install and select the backend kernel:
 
 ```bash
 cd backend
-uv run python -m ipykernel install --user --name document-copilot-backend --display-name "Document Copilot Backend"
+uv run python -m ipykernel install --user --name insightdesk-backend --display-name "InsightDesk Backend"
 ```
 
 Then notebooks can import backend modules:

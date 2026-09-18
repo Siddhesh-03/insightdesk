@@ -1,8 +1,8 @@
-# Client brief — Driftwood Capital
+# Client brief — Meridian Capital
 
 ## The client
 
-**Driftwood Capital** is an independent investment research firm with ~40 analysts. They sell deep equity research to institutional clients (hedge funds, mutual funds, pension funds) under annual subscriptions ($50K–$500K+ per client), plus custom commissioned research and analyst calls.
+**Meridian Capital** is an independent investment research firm with ~40 analysts. They sell deep equity research to institutional clients (hedge funds, mutual funds, pension funds) under annual subscriptions ($50K–$500K+ per client), plus custom commissioned research and analyst calls.
 
 They don't manage money themselves. Their product is research and access to their analysts.
 
@@ -34,7 +34,7 @@ Hiring more analysts doesn't fix it — the intake bottleneck scales linearly wi
 
 ## What they want
 
-An internal chatbot — call it **Document Copilot** — where any Driftwood analyst can:
+An internal chatbot — call it **InsightDesk** — where any Driftwood analyst can:
 
 - Ask questions in plain English about any filing in Driftwood's curated corpus
 - Get a sourced answer that cites the specific filing and the specific page
